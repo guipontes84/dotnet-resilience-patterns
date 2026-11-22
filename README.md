@@ -1,5 +1,7 @@
 # .NET Resilience Patterns
 
+**Autor:** Guilherme Pontes  
+**LinkedIn:** https://www.linkedin.com/in/guilhermepontesdev/  
 **Repositório:** https://github.com/guipontes84/dotnet-resilience-patterns
 
 Exemplo didático de **Retry, Timeout e Circuit Breaker** com **C# / ASP.NET Core 8**, `HttpClientFactory` e **Polly** via `Microsoft.Extensions.Http.Resilience`.
